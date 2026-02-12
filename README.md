@@ -1,7 +1,7 @@
 # The Three-Layer Model  
 ## Syntactic – Semantic – Operative Interoperability  
 
-The Three-Layer Model provides a universal analytical framework for examining interoperability in intelligent system networks.
+The Three-Layer Model provides a universal analytical framework for examining how intelligent autonomous actors achieve structurally coherent collective action.
 
 It separates interoperability into three structurally independent layers:
 
