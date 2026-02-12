@@ -5,15 +5,27 @@
   "layers": [
     {
       "name": "Syntactic Interoperability",
-      "focus": ["connectivity", "data integrity", "availability"]
+      "focus": [
+        "connectivity",
+        "data integrity",
+        "availability"
+      ]
     },
     {
       "name": "Semantic Interoperability",
-      "focus": ["meaning alignment", "context consistency"]
+      "focus": [
+        "meaning alignment",
+        "context consistency"
+      ]
     },
     {
       "name": "Operative Interoperability",
-      "focus": ["decision coordination", "conflict resolution", "priority assignment"]
+      "focus": [
+        "autonomous decision alignment",
+        "priority structuring",
+        "conflict arbitration",
+        "coordinated execution"
+      ]
     }
   ],
   "character": "Non-normative analytical framework"
