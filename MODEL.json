@@ -1,0 +1,20 @@
+{
+  "model": "Three-Layer Model",
+  "version": "1.0",
+  "status": "Conceptually Frozen",
+  "layers": [
+    {
+      "name": "Syntactic Interoperability",
+      "focus": ["connectivity", "data integrity", "availability"]
+    },
+    {
+      "name": "Semantic Interoperability",
+      "focus": ["meaning alignment", "context consistency"]
+    },
+    {
+      "name": "Operative Interoperability",
+      "focus": ["decision coordination", "conflict resolution", "priority assignment"]
+    }
+  ],
+  "character": "Non-normative analytical framework"
+}
