@@ -1,13 +1,13 @@
 # The Three-Layer Model  
-### A Universal Analytical Framework for Intelligent System Interoperability  
+## Syntactic – Semantic – Operative Interoperability  
 
-The Three-Layer Model provides a structural decomposition of interoperability in intelligent system networks.
+The Three-Layer Model provides a universal analytical framework for examining interoperability in intelligent system networks.
 
-It separates integration problems into three analytically independent layers:
+It separates interoperability into three structurally independent layers:
 
-- Syntactic Layer  
-- Semantic Layer  
-- Operative Layer  
+- Syntactic Interoperability  
+- Semantic Interoperability  
+- Operative Interoperability  
 
 The model is domain-agnostic and non-normative.
 
@@ -23,9 +23,11 @@ The model enables:
 - governance evaluation  
 - cross-domain comparability  
 
+It is intended for analysis, not implementation.
+
 ---
 
-## Scope
+## Scope of Applicability
 
 Applicable to:
 
@@ -34,6 +36,18 @@ Applicable to:
 - intelligent infrastructure  
 - distributed coordination networks  
 - multi-actor decision systems  
+- AI-based interaction systems  
+
+---
+
+## Structural Principle
+
+Progress in one interoperability layer does not compensate for failure in another.
+
+Reliable communication does not ensure shared meaning.  
+Shared meaning does not ensure coordinated action.
+
+Each layer must be assessed independently.
 
 ---
 
@@ -41,6 +55,6 @@ Applicable to:
 
 Version 1.0  
 Conceptually Frozen  
-Non-normative  
+Non-Normative Analytical Framework  
 
-See `MODEL.md` for the formal structure.
+See `MODEL.md` for the formal definition.
