@@ -70,24 +70,27 @@ Misinterpretation despite successful data exchange.
 
 Definition:
 
-The ability of autonomous actors to coordinate actions based on shared information.
+The ability of autonomous actors to transform individual decision processes 
+into structurally coherent collective action within a shared environment.
 
 Focus:
 
-- priority assignment  
-- conflict resolution  
-- decision arbitration  
-- behavioural coordination  
+- priority structuring
+- decision arbitration
+- conflict resolution
+- behavioural alignment
+- coordinated execution
 
 Diagnostic Questions:
 
-- How are conflicting decisions resolved?  
-- How are priorities assigned?  
-- How is shared control structured?  
+- How are conflicting decisions structurally resolved?
+- How are priorities formally assigned or negotiated?
+- How are autonomous decision processes aligned?
+- How is collective execution stabilised?
 
 Failure Mode:
 
-Coordination deadlock, behavioural conflict, or contradictory action despite semantic agreement.
+Loss of coordinated collective action despite syntactic connectivity and semantic agreement.
 
 ---
 
