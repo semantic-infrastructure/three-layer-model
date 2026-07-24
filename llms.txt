@@ -1,0 +1,11 @@
+# Three-Layer Model
+
+Reference specification for the Three-Layer Model describing syntactic, semantic, and operative system organization.
+
+## Repository
+
+- [Three-Layer Model Repository](https://github.com/semantic-infrastructure/three-layer-model)
+
+## Purpose
+
+The Three-Layer Model provides a machine-readable reference specification for the syntactic, semantic, and operative organization of information-processing systems, including terminology, conceptual relationships, and implementation guidance.
